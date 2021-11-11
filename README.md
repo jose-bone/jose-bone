@@ -1,9 +1,11 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jose-bone/da592c5714bffc0d6ae0b504d67e70d9/raw/08f80104b93e7e578c373c1b93db8eff59c2405b/githubcard.svg"/>
+<img align="right" height="570em" src="https://raw.githubusercontent.com/gist/jose-bone/da592c5714bffc0d6ae0b504d67e70d9/raw/08f80104b93e7e578c373c1b93db8eff59c2405b/githubcard.svg"/>
 <h1 align="left">Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm José Boné</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-bone&label=Profile%20views&color=0e75b6&style=flat" alt="jose-bone" /> </p>
 
 - 🔥 Junior web developer focused on learning
 - 🌱 I’m currently learning **React, React Native and Node**
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/jose-bone?tab=repositories)
+
   <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -18,14 +20,16 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align='left'>
-<img width='530em'  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-bone&hide=html&layout=compact&theme=radical&title_color=2ED3EA" />
-<img width='530em'  align="left" src="https://github-readme-stats.vercel.app/api?username=jose-bone&show_icons=true&theme=radical&title_color=2ED3EA" />
+<img width='530em'  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-bone&hide=html&layout=compact&theme=radical&title_color=2ED3EA" />
+<img width='530em'  align="center" src="https://github-readme-stats.vercel.app/api?username=jose-bone&show_icons=true&theme=radical&title_color=2ED3EA" />
   </p>
+
 <br><br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
