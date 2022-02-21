@@ -26,8 +26,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align='left'>
-<img width='530em'  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-bone&hide=html&layout=compact&theme=radical&title_color=2ED3EA" />
-<img width='530em'  align="center" src="https://github-readme-stats.vercel.app/api?username=jose-bone&show_icons=true&theme=radical&title_color=2ED3EA" />
+<img width='530em'  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-bone&hide=html&layout=compact&theme=omni&title_color=2ED3EA" />
+<img width='530em'  align="center" src="https://github-readme-stats.vercel.app/api?username=jose-bone&show_icons=true&theme=omni&title_color=2ED3EA" />
   </p>
 
 <br><br>
