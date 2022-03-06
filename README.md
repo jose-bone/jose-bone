@@ -46,8 +46,9 @@
  <img align="center" src="https://img.shields.io/badge/-jm.bone-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
+<br/>
 
-## 🏆 GitHub Trophies
+## 🏆 &nbsp;GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jose-bone&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
