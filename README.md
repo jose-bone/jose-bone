@@ -27,7 +27,7 @@
 
 <p align='left'>
 <img width='400em'  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-bone&hide=html&layout=compact&theme=omni&title_color=2ED3EA" />
-<br><br>
+<br/>
 <img width='400em'  align="center" src="https://github-readme-stats.vercel.app/api?username=jose-bone&show_icons=true&theme=omni&title_color=2ED3EA" />
   </p>
 
