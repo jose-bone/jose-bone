@@ -1,4 +1,4 @@
-<img align="right" height="570em" src="https://raw.githubusercontent.com/gist/jose-bone/da592c5714bffc0d6ae0b504d67e70d9/raw/342ad00d3929be56b20613907d19946abac05df0/githubcard.svg"/>
+<!-- <img align="right" height="570em" src="https://raw.githubusercontent.com/gist/jose-bone/da592c5714bffc0d6ae0b504d67e70d9/raw/342ad00d3929be56b20613907d19946abac05df0/githubcard.svg"/> -->
 <h1 align="left">Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm José Boné</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-bone&label=Profile%20views&color=0e75b6&style=flat" alt="jose-bone" /> </p>
 
@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React, React Native and Node**
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/jose-bone?tab=repositories)
 
-  <br><br>
+<br/>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -21,17 +21,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
-<br><br>
+<br/>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align='left'>
-<img width='400em'  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-bone&hide=html&layout=compact&theme=omni&title_color=2ED3EA" />
-<br/>
-<img width='400em'  align="center" src="https://github-readme-stats.vercel.app/api?username=jose-bone&show_icons=true&theme=omni&title_color=2ED3EA" />
+<img width='200em'  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-bone&hide=html&layout=compact&theme=omni&title_color=2ED3EA" />
+<img width='250em'  align="center" src="https://github-readme-stats.vercel.app/api?username=jose-bone&show_icons=true&theme=omni&title_color=2ED3EA" />
   </p>
 
-<br><br>
+<br/>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
@@ -52,7 +51,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jose-bone&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br />
+<br/>
 
 ![snake gif](https://github.com/jose-bone/jose-bone/blob/output/github-contribution-grid-snake.svg)
 
