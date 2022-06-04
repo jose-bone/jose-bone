@@ -1,5 +1,5 @@
 <!-- <img align="right" height="570em" src="https://raw.githubusercontent.com/gist/jose-bone/da592c5714bffc0d6ae0b504d67e70d9/raw/342ad00d3929be56b20613907d19946abac05df0/githubcard.svg"/> -->
-<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> I'm José Boné</h1>
+<h1 align="left">Hi, 🖖🏾 I'm José Boné</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-bone&label=Profile%20views&color=0e75b6&style=flat" alt="jose-bone" /> </p>
 
 - 🔥 Junior web developer focused on learning
