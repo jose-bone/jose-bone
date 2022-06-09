@@ -2,7 +2,7 @@
 <h1 align="left">Hi, 🖖🏾 I'm José Boné</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-bone&label=Profile%20views&color=0e75b6&style=flat" alt="jose-bone" /> </p>
 
-- 🔥 Junior web developer focused on learning
+- 🔥 Web developer focused on learning
 - 🌱 I’m currently learning **React, React Native and Node**
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/jose-bone?tab=repositories)
 
