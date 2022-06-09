@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-bone&label=Profile%20views&color=0e75b6&style=flat" alt="jose-bone" /> </p>
 
 - 🔥 Web developer focused on learning
-- 🌱 I’m currently learning **React, React Native and Node**
+- 🌱 I’m currently learning **React**
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/jose-bone?tab=repositories)
 
 <br/>
