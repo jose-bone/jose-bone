@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-bone&label=Profile%20views&color=0e75b6&style=flat" alt="jose-bone" /> </p>
 
 - 🔥 Web developer focused on learning
-- 🌱 I’m currently learning **React**
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/jose-bone?tab=repositories)
 
 <br/>
@@ -18,7 +17,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
 <br/>
 
@@ -29,27 +27,6 @@
 <br/>
 <img width='400em'  align="center" src="https://github-readme-stats.vercel.app/api?username=jose-bone&show_icons=true&theme=omni&title_color=2ED3EA" />
   </p>
-
-<br/>
-
-## 👨🏽‍🦲 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-<a href="https://twitter.com/jose_bonejr" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-jose_bonejr-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/jose-bone" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-josebone-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/jm.bone" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-jm.bone-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
-<br/>
-
-## 🏆 &nbsp;GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jose-bone&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
