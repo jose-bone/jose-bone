@@ -24,4 +24,4 @@
 
 ## 📫 &nbsp;Connect with me
 
-<a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="48" /></a>
+<a href="https://linkedin.com/in/jose-bone/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="48" /></a>
