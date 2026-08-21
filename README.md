@@ -18,7 +18,7 @@
 
 ## 📊 &nbsp;GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jose-bone&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jose-bone&theme=dracula&v=2)](https://git.io/streak-stats)
 
 <br/>
 
