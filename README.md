@@ -18,13 +18,6 @@
 
 ## 📊 &nbsp;GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/jose-bone">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-bone&show_icons=true&theme=dracula" alt="José Boné's GitHub stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-bone&layout=compact&theme=dracula" alt="Top languages" />
-  </a>
-</p>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=jose-bone&theme=dracula)](https://git.io/streak-stats)
 
 <br/>
